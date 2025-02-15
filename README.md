@@ -10,6 +10,11 @@ Welcome to my GitHub profile! I'm passionate about technology and love contribut
 - 💬 Ask me about web development, Python, machine learning, and cloud technologies.
 - ⚡ Fun fact: I love music, sports and food!
 
+## Contact Details
+
+- 📧 Email: sayakd915@gmail.com
+- 💼 LinkedIn: [Sayak Das](https://www.linkedin.com/in/sayak-das-57b8b3273)
+
 ## Languages I Know
 
 <p>
@@ -49,7 +54,6 @@ Welcome to my GitHub profile! I'm passionate about technology and love contribut
   <img src="https://img.shields.io/badge/Matplotlib-%23FFDD44.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-%2300599C.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
 </p>
-
 
 Thanks for visiting my profile! Have a great day! 😊
 
