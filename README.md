@@ -64,13 +64,3 @@ Thanks for visiting my profile! Have a great day! 😊
   <img src="https://github-readme-stats.vercel.app/api?username=Sayakd915&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayakd915&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayakd915&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sayakd915/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Sayakd915&theme=redical" alt="GitHub Activity Graph"/>
-  </a>
-</p>
