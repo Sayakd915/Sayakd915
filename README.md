@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about technology and love contribut
 
 ## About Me
 
-- 🔭 I’m currently working on various projects in web development and data science.
+- 🔭 I’m currently working on various projects in  cross platform app developement, web development and ML/DL.
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 💬 Ask me about web development, Python, machine learning, and cloud technologies.
+- 💬 Ask me about web development, app development, Python, machine learning, and cloud technologies.
 - ⚡ Fun fact: I love music, sports and food!
 
 ## Contact Details
